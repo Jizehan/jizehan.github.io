@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+![Multiverse by HTML5UP](https://repository-images.githubusercontent.com/192228387/23ca0280-91f4-11e9-86e0-afcf90e961ad)
 
-You can use the [editor on GitHub](https://github.com/Jizehan/jizehan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Jekyll Multiverse Template
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Build Status](https://travis-ci.com/joaomlneto/jekyll-multiverse-template.svg?branch=master)](https://travis-ci.com/joaomlneto/jekyll-multiverse-template)
 
-### Markdown
+This is a Jekyll site template based on the [Multiverse](https://html5up.net/multiverse) template by [HTML5 UP](https://html5up.net)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Example website: https://jekyll-multiverse-template.joao.neto.pt
 
-```markdown
-Syntax highlighted code block
+Each of the images displayed in the website is its own separate *post*:
+- Metadata (image title and caption) goes in the [`_images`](_images) folder
+- Actual images (thumbnails and fulls go into [`assets/images`](assets/images)).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jizehan/jizehan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
