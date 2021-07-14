@@ -2,9 +2,10 @@
 layout: post
 title:  "springcloud学习笔记"
 date:   2021-03-01 21:03:36 +0530
-categories: 多线程
+categories: 微服务
 ---
 好记性不如烂笔头
+
 @[TOC](springcloud学习 笔记)
 ### 01_什么是微服务
 
